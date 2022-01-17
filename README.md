@@ -1,3 +1,4 @@
+
 # JavaScript Chatbot 
 
 This is a very simple "chatbot" using nothing but JavaScript, HTML, & CSS. I put this in quotes because chatbots these days are way more complex - this is an exercise in vanilla JS loops and conditionals, not AI.
@@ -9,3 +10,5 @@ Enjoy!
 [Demo](https://sylviapap.github.io/chatbot/)
 
 [Blog post](https://dev.to/sylviapap/make-a-simple-chatbot-with-javascript-1gc)
+# BasicBot
+54833d2a15bc0e3359ee88b3a23170887b32dcc0
